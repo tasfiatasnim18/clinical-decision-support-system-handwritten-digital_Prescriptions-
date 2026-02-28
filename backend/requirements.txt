@@ -1,22 +1,29 @@
+
+---
+
+Copy this as **requirements.txt**
+
+```txt
 fastapi
 uvicorn
 pydantic
 python-dotenv
-sqlalchemy
-pymysql
-passlib[bcrypt]
-python-jose
-python-multipart
 
-# ML / NLP
-scikit-learn
 numpy
 pandas
+scikit-learn
+xgboost
+lightgbm
+tensorflow
 
-# OCR
-pytesseract
-Pillow
-opencv-python
+joblib
 
-# Utilities
-requests
+sqlalchemy
+pymysql
+
+google-cloud-vision
+
+python-multipart
+
+passlib[bcrypt]
+python-jose
