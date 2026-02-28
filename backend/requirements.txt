@@ -1,0 +1,22 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+sqlalchemy
+pymysql
+passlib[bcrypt]
+python-jose
+python-multipart
+
+# ML / NLP
+scikit-learn
+numpy
+pandas
+
+# OCR
+pytesseract
+Pillow
+opencv-python
+
+# Utilities
+requests
